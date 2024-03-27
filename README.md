@@ -1,1 +1,1 @@
-﻿Basic calculator with  jasvaScript
+﻿Basic calculator with  javaScript
